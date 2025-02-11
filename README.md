@@ -19,7 +19,6 @@ Este conjunto de herramientas asegura una plataforma robusta y dinámica, adapta
 ## Indice
 
 - [Enlace a la Página](#Enlace-a-la-Página)
-- [Visualización](#Visualización)
 - [Tecnologías](#tecnologías)
 - [Herramientas de Desarrollo](#herramientas-de-desarrollo)
 - [Herramientas de Diseño](#herramientas-de-diseño)
@@ -30,34 +29,6 @@ Este conjunto de herramientas asegura una plataforma robusta y dinámica, adapta
 ## Enlace a la Página
 
 [Acceder a la página aquí](https://vhyper-games.vercel.app/)
-
-<br>
-
-## Visualización
-
-<br>
-
-![Home](/doc/img/Home.png)
-
-<br>
-
-![Carrito](doc/img/Carrito.png)
-
-<br>
-
-![Catalogo](doc/img/Catalogo.png)
-
-<br>
-
-![Admin Users](doc/img/Users-management.png)
-
-<br>
-
-![Admin Games](doc/img/Products-management.png)
-
-<br>
-
-![Admin Games](doc/img/Editar-productos.png)
 
 <br>
 
